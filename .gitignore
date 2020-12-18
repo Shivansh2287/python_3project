@@ -1,0 +1,5 @@
+.vscode/
+/Database/mysafe.db
+*.pyc
+/venv
+/PasswordManager/pass_manager.db
